@@ -1,9 +1,9 @@
 # Hello there 👋
 
 ## GENERAL CODING SKILLS:
-
+```
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,js,ts)](https://skillicons.dev)
-
+```
 ## DEVOPS SKILLS:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,ansible,elasticsearch)](https://skillicons.dev)
