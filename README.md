@@ -1,4 +1,4 @@
-Hello there 👋
+#Hello there 👋
 
 GENERAL CODING SKILLS:
 
@@ -12,9 +12,9 @@ FULLSTACK WEB DEV:
 
 [![My Skills](https://skillicons.dev/icons?i=vite,react,bootstrap,nodejs,nestjs,prisma)](https://skillicons.dev)
 
-GAME DEV:
+GAME DEV: {still practicing... its a long journey...}
 
-[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev) {still practicing... its a long journey...}
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev) 
 
 HERE IS ALL MY PROGRAMMING PROJECTS 
 
