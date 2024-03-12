@@ -2,11 +2,19 @@ Hello there 👋
 
 GENERAL CODING SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,js,ts)](https://skillicons.dev)
 
 DEVOPS SKILLS:
 
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,ansible,elasticsearch)](https://skillicons.dev)
 
+FULLSTACK WEB DEV:
+
+[![My Skills](https://skillicons.dev/icons?i=vite,react,bootstrap,nodejs,nestjs,prisma)](https://skillicons.dev)
+
+GAME DEV:
+
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev) {still practicing... its a long journey...}
 
 HERE IS ALL MY PROGRAMMING PROJECTS 
 
