@@ -1,9 +1,8 @@
-
+<div align="center">
 
 # Hello there 👋
-<div align="center">
+
 ## REACH ME OUT THERE: 
-</div>
 
 [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
 
@@ -27,4 +26,4 @@
 
 ![array](https://media.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif)
 
-
+</div>
