@@ -1,8 +1,11 @@
-<div align="center">
+
 
 # Hello there 👋
+<div align="center">
+## REACH ME OUT THERE: 
+</div>
 
-## REACH ME OUT THERE: [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
+[www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
 
 ## GENERAL CODING SKILLS:
 
@@ -24,4 +27,4 @@
 
 ![array](https://media.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif)
 
-</div>
+
