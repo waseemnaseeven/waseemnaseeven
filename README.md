@@ -1,8 +1,12 @@
 Hello there 👋
 
-Coding skills:
+GENERAL CODING SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js)](https://skillicons.dev)
+
+DEVOPS SKILLS:
+
+
 
 HERE IS ALL MY PROGRAMMING PROJECTS 
 
