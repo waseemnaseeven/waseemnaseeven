@@ -18,11 +18,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev)
 
-### REACH ME OUT THERE: 
+## REACH ME OUT THERE: 
 
 [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
 
-### HERE IS ALL MY PROGRAMMING PROJECTS 
+## HERE IS ALL MY PROGRAMMING PROJECTS 
 
 ![array](https://media.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif)
 
