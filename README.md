@@ -2,8 +2,6 @@
 
 # Hello there 👋
 
-## REACH ME OUT THERE: [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
-
 ## GENERAL CODING SKILLS:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,js,ts)](https://skillicons.dev)
@@ -18,7 +16,11 @@
 
 ## GAME DEV: {still practicing... its a long long long journey...}
 
-[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev)
+
+## REACH ME OUT THERE: 
+
+- [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
 
 ## HERE IS ALL MY PROGRAMMING PROJECTS 
 
