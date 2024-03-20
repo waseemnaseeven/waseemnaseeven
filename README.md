@@ -14,10 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vite,react,bootstrap,nodejs,nestjs,prisma)](https://skillicons.dev)
 
-## GAME DEV: {still practicing... its a long long long journey...}
-
-[![My Skills](https://skillicons.dev/icons?i=unreal,cpp)](https://skillicons.dev)
-
 ## REACH ME OUT THERE: 
 
 [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress)
