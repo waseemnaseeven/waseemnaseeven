@@ -8,7 +8,7 @@
 
 ## DEVOPS SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,ansible,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,ansible,vagrant)](https://skillicons.dev)
 
 ## FULLSTACK WEB DEV:
 
