@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,postgres,ansible,terraform,gitlab)](https://skillicons.dev)
 
-## FULLSTACK WEB DEV:
+## WEB DEV:
 
 [![My Skills](https://skillicons.dev/icons?i=vite,react,bootstrap,nodejs,nestjs,prisma)](https://skillicons.dev)
 
