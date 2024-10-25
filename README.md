@@ -17,6 +17,7 @@
 ## REACH ME OUT THERE: 
 
 [www.waseemnaseeven.com](https://www.waseemnaseeven.com) (in progress) 
+waseem.naseeven@gmail.com
 
 ## HERE IS ALL MY PROGRAMMING PROJECTS 
 
