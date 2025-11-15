@@ -4,7 +4,7 @@
 
 ## GENERAL CODING SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,py,rust,golang)](https://skillicons.dev)
 
 ## DEVOPS SKILLS:
 
