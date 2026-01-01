@@ -4,11 +4,11 @@
 
 ## GENERAL CODING SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,py,rust,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,rust,golang)](https://skillicons.dev)
 
 ## DEVOPS SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,gitlab,prometheus,vault)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,gitlab,github,prometheus,elasticsearch,grafana,cloudflare)](https://skillicons.dev)
 
 ## REACH ME OUT THERE: 
 
