@@ -10,10 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,gitlab,github,prometheus,elasticsearch,grafana,cloudflare)](https://skillicons.dev)
 
-## REACH ME OUT THERE: 
-
-[wnaseeve.com](https://wnaseeven.com) 
-
 ## HERE IS ALL MY PROGRAMMING PROJECTS 
 
 ![array](https://media.tenor.com/L5Hp9bolcaAAAAAi/habbo-habbohotel.gif)
