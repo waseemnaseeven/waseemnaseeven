@@ -8,11 +8,7 @@
 
 ## DEVOPS SKILLS:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,gitlab,prometheus)](https://skillicons.dev)
-
-## WEB DEV:
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,prisma,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,ansible,terraform,gitlab,prometheus,vault)](https://skillicons.dev)
 
 ## REACH ME OUT THERE: 
 
